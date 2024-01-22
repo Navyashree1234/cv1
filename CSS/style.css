@@ -1,0 +1,81 @@
+body{
+  margin:250;
+  text-align: center;
+  font-style:  italic;
+  font-family:  Arial Black,Airal Bold,Gadget,sans-serif;
+  background-color: #DCF2F1;
+  font-size: 20px;
+}
+  .middle-container{
+    margin-top: -15%;
+}
+
+h1{
+background-color: #DCF2F1;
+  color:#43766C;
+  margin-bottom: 0;
+  margin-top:0;
+  text-align: center;
+  font-size: 300%;
+
+
+  font-family: fantasy;
+}
+.h3{
+  text-align: center;
+  margin-top: 40%;
+  margin-bottom:40%;
+color: #43766C;
+font-family:'montserrat',cursive ;
+font-size: 300%;
+
+}
+
+p{
+
+  color:#43766C;
+  margin-top: 20px;
+  font-style:  oblique;
+  font-family: ui-rounded;
+  align:centre;
+  font-size: 120%;
+  margin-left:200px;
+  margin-right:200px;
+
+}
+
+.firstdiv{
+  background-color: #43766C;
+  margin: 10%;
+  font-style:oblique;
+  font-family:
+  position:relative;
+
+}
+.cloud1{
+  margin-left:60%;
+  margin-top: 0px;
+  margin-bottom:-100%;
+  position:relative;
+
+}
+.cloud2{
+  margin-left: -80%;
+  margin-bottom:-150%;
+margin-top:0px;
+position:relative;
+}
+.mountain1{
+  align:centre;
+  margin-top:-400px;
+}
+.profile{
+  margin-top:-70px;
+  margin-left:250px;
+  text-size-adjust:50%;
+
+}
+My skills{
+    margin-top: 100;
+    margin-left: 800;
+}
